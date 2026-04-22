@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project_Auschwitz.vcxproj" Id="d0a4e58f-f764-4ab9-bcfe-941e66aa5fc3" />
+</Solution>
