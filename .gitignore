@@ -1,0 +1,33 @@
+# Visual Studio / MSVC
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Build output
+Debug/
+Release/
+bin/
+obj/
+x64/
+x86/
+out/
+build/
+cmake-build-*/
+
+# Intermediate and generated files
+*.ipch
+*.pch
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.tlog
+*.lastbuildstate
+*.log
+*.tmp
+*.cache
