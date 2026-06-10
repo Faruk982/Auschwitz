@@ -55,20 +55,6 @@ An OpenGL 3D educational reconstruction of Auschwitz I built with C++, GLFW, GLA
 - OpenGL 3.3 capable graphics hardware and drivers.
 - GLFW, GLAD, GLM, and stb_image available to the project.
 
-The current project file references OpenGL include and library folders at:
-
-- `E:\4-2\LAB\Graphics\opengl\Include`
-- `E:\4-2\LAB\Graphics\opengl\Lib`
-
-If your setup uses different locations, update the include and library paths in `Project_Auschwitz.vcxproj` before building.
-
-## Build
-
-1. Open `Project_Auschwitz.slnx` or `Project_Auschwitz.vcxproj` in Visual Studio.
-2. Make sure the OpenGL support libraries are available at the paths listed above, or update the project settings to match your machine.
-3. Build the `Debug` or `Release` configuration for `Win32` or `x64`.
-4. Run the project from Visual Studio.
-
 ## Controls
 
 - `W`, `A`, `S`, `D` - move the camera horizontally.
